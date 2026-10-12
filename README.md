@@ -14,8 +14,8 @@
 | Підгрупа | КН-41 |
 | Тема проєкту | Сервіс бронювання аудиторій і обладнання з погодженням заявок |
 | Варіант вхідних умов | V07 |
-| Трекер | |
-| Дошка | |
+| Трекер | [GitHub Projects](https://github.com/users/Hyptofon/projects/1) |
+| Дошка | [Kanban ЛР4 — робота над ЛР5–ЛР6](https://github.com/users/Hyptofon/projects/1/views/1) |
 | Валюта проєкту | |
 | Contingency, % | |
 
