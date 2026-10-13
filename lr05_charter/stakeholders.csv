@@ -1,1 +1,8 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Керівник господарської частини,Академія,high,high,supporter,manage_closely,PM
+ST-02,Представник навчальної частини,Академія,high,high,supporter,manage_closely,PM
+ST-03,Комендант корпусу,Академія,low,high,neutral,keep_satisfied,PM
+ST-04,Представник студентської організації,Академія,high,low,supporter,keep_informed,BA
+ST-05,Відповідальний за видачу обладнання,Академія,high,high,blocker,manage_closely,PM
+ST-06,Викладач-заявник,Академія,high,low,supporter,keep_informed,BA
+ST-07,Служба ІТ-підтримки,Академія,low,high,neutral,keep_satisfied,Dev

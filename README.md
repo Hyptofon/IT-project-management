@@ -16,6 +16,7 @@
 | Варіант вхідних умов | V07 |
 | Трекер | [GitHub Projects](https://github.com/users/Hyptofon/projects/1) |
 | Дошка | [Kanban ЛР4 — робота над ЛР5–ЛР6](https://github.com/users/Hyptofon/projects/1/views/1) |
+| Продуктовий беклог | [Product Project — S-історії V07](https://github.com/users/Hyptofon/projects/2/views/2) |
 | Валюта проєкту | |
 | Contingency, % | |
 
