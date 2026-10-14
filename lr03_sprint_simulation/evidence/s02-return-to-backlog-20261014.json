@@ -1,0 +1,73 @@
+{
+  "eventAtKyiv": "2026-10-14 18:53:48 +03:00",
+  "eventAtUtc": "2026-10-14T15:53:48.0000000+00:00",
+  "capturedAtUtc": "2026-10-14T15:55:25.2226871+00:00",
+  "capturedAtKyiv": "2026-10-14 18:55:25 +03:00",
+  "reason": "Optional product implementation discontinued by October 13 management decision; tracker reconciled October 14",
+  "before": {
+    "itemId": "PVTI_lAHOCUO-Ns4BmviXzhARaxw",
+    "title": "S-02 — Заявник, погоджувач і адміністратор",
+    "updatedAt": "2026-10-13T07:52:46Z",
+    "draftIssueUpdatedAt": "2026-10-13T07:52:46Z",
+    "fields": [
+      {
+        "date": "2026-10-12",
+        "field": {
+          "id": "PVTF_lAHOCUO-Ns4BmviXzhlXTlY",
+          "name": "Created date"
+        }
+      },
+      {
+        "name": "In progress (WIP <= 1)",
+        "optionId": "62910c29",
+        "field": {
+          "id": "PVTSSF_lAHOCUO-Ns4BmviXzhlXS1c",
+          "name": "Status"
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "field": {
+          "id": "PVTF_lAHOCUO-Ns4BmviXzhlXTpw",
+          "name": "Start date"
+        }
+      }
+    ]
+  },
+  "after": {
+    "itemId": "PVTI_lAHOCUO-Ns4BmviXzhARaxw",
+    "title": "S-02 — Заявник, погоджувач і адміністратор",
+    "updatedAt": "2026-10-14T15:53:56Z",
+    "draftIssueUpdatedAt": "2026-10-14T15:53:56Z",
+    "fields": [
+      {
+        "date": "2026-10-12",
+        "field": {
+          "id": "PVTF_lAHOCUO-Ns4BmviXzhlXTlY",
+          "name": "Created date"
+        }
+      },
+      {
+        "name": "Backlog",
+        "optionId": "b137bee1",
+        "field": {
+          "id": "PVTSSF_lAHOCUO-Ns4BmviXzhlXS1c",
+          "name": "Status"
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "field": {
+          "id": "PVTF_lAHOCUO-Ns4BmviXzhlXTpw",
+          "name": "Start date"
+        }
+      }
+    ]
+  },
+  "historicalBodyPreservedAsPrefix": true,
+  "acceptanceCriteriaUnchanged": true,
+  "otherFourteenStoriesUnchanged": true,
+  "s11Unchanged": true,
+  "noDoneDate": true,
+  "noBlockedDaysAdded": true
+}

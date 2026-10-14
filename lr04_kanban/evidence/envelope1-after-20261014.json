@@ -1,0 +1,338 @@
+{
+  "captureStartedUtc": "2026-10-14T15:51:30.3920425+00:00",
+  "capturedAtUtc": "2026-10-14T15:51:35.1248234+00:00",
+  "capturedAtKyiv": "2026-10-14 18:51:35 +03:00",
+  "project": {
+    "id": "PVT_kwHOCUO-Ns4BmuYn",
+    "number": 1,
+    "shortDescription": "ЛР4: робота над ЛР5–ЛР6, V07. WIP: In progress <=2, Review <=2.",
+    "public": true,
+    "url": "https://github.com/users/Hyptofon/projects/1",
+    "title": "ЛР4 — Kanban роботи над ЛР5–ЛР6 · Войтюк Назарій · V07"
+  },
+  "statusField": {
+    "id": "PVTSSF_lAHOCUO-Ns4BmuYnzhlWOMc",
+    "name": "Status",
+    "options": [
+      {
+        "id": "f75ad846",
+        "name": "Backlog"
+      },
+      {
+        "id": "e94785f3",
+        "name": "Ready"
+      },
+      {
+        "id": "47fc9ee4",
+        "name": "In progress (WIP <= 2)"
+      },
+      {
+        "id": "47191256",
+        "name": "Review (WIP <= 2)"
+      },
+      {
+        "id": "98236657",
+        "name": "Done"
+      }
+    ],
+    "type": "ProjectV2SingleSelectField"
+  },
+  "counts": {
+    "Backlog": 0,
+    "Ready": 0,
+    "In_progress": 0,
+    "Review": 0,
+    "Done": 13
+  },
+  "totalCount": 13,
+  "items": [
+    {
+      "artifact": "https://github.com/users/Hyptofon/projects/1",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlMo",
+      "key": "F-001",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-001 — Перевірка зовнішньої залежності перед Ready",
+      "work type": "other",
+      "contentBodySha256": "5c531a215480a07c00f3a4d15c53e9fcd533e578acd666c76a5ce60d10d221cc"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/README.md",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlOA",
+      "key": "F-002",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-002 — Описати проблему замовника і мету пілота",
+      "work type": "other",
+      "contentBodySha256": "06e2ddbbbead97519d8fa9779230103bd2ec0fac8290a835dd3f445a63ca1ea2"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/README.md",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlPI",
+      "key": "F-003",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-003 — Порівняти три альтернативи business case",
+      "work type": "other",
+      "contentBodySha256": "69772c480bc734b624e518d82a087417b7f86eabcac27d197da62522cd4bb152"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/README.md",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlQE",
+      "key": "F-004",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-004 — Визначити обсяг і межі першого релізу",
+      "work type": "other",
+      "contentBodySha256": "113b4a41ef3332c87d2ce9a4cbea4003ca50468455750c7af9b798b67799978d"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/README.md",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlRE",
+      "key": "F-005",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-005 — Зафіксувати обмеження V07 та припущення",
+      "work type": "other",
+      "contentBodySha256": "c6382e891ef36c2100ca5b4cc6c83dcb2b03ce2105b9524a0ed45f550c81196a"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/stakeholders.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlSE",
+      "key": "F-006",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-006 — Скласти карту стейкхолдерів і стратегії",
+      "work type": "other",
+      "contentBodySha256": "99501ca2f866923790cc753c1180b2d685ff1b364f30129a0e9e5a8aa045370c"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr05_charter/success_criteria.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlS8",
+      "key": "F-007",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-007 — Описати вимірювані критерії успіху",
+      "work type": "other",
+      "contentBodySha256": "42dd08fa908d36a45f9a0fad0a5bb72867c10cc63ea6cea411c4c4d01b684ab7"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr06_backlog/backlog.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlTc",
+      "key": "F-008",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-008 — Перенести 13 стартових історій без зміни ключів",
+      "work type": "other",
+      "contentBodySha256": "48f39e4ce3cc870090bf1ada9004285b0c09078eecf35ac378dc11f2cce05243"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr06_backlog/backlog.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlT8",
+      "key": "F-009",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-009 — Доповнити беклог і провести INVEST-перевірку",
+      "work type": "other",
+      "contentBodySha256": "33b42bedc0f67b4488cd71e88d7135fc1f1e90360d7580d3ace0512066a61974"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr06_backlog/backlog.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlUc",
+      "key": "F-010",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-010 — Уточнити REL-1, acceptance criteria і SC-зв'язки",
+      "work type": "other",
+      "contentBodySha256": "72e0a22266f9c45b508cee002ea32e09fbc33db8def2b4447bb7f80c0f5965d5"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr06_backlog/backlog.csv",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlVU",
+      "key": "F-011",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-011 — Пріоритезувати беклог і встановити чергу",
+      "work type": "other",
+      "contentBodySha256": "c9b235b6d41a147342c74748fd219d9dd88c3d4e5bdaff54f4800f9fcf19e3e4"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr06_backlog/dor.md",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "standard",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhAPlWE",
+      "key": "F-012",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-012 — Перевірити DoR і узгодженість статуту та беклогу",
+      "work type": "other",
+      "contentBodySha256": "55bc0772e5eb1081c3d47f84c6df98b4553f9dcc56a91f780b8e3b574dc79a9b"
+    },
+    {
+      "artifact": "https://github.com/Hyptofon/IT-project-management/blob/620c867bbff8b08fc64445e85bbf0c719065f917/lr04_kanban/README.md#5-конверт-2-термінова-картка",
+      "assignees": [
+        "Hyptofon"
+      ],
+      "blocked": "no",
+      "blocked days": 0,
+      "class of service": "expedite",
+      "created date": "2026-10-12",
+      "done date": "2026-10-12",
+      "id": "PVTI_lAHOCUO-Ns4BmuYnzhARRXQ",
+      "key": "F-013",
+      "start date": "2026-10-12",
+      "status": "Done",
+      "title": "F-013 — Перевірка ЛР1 за навчальним терміновим сценарієм",
+      "work type": "other",
+      "contentBodySha256": "e9f290baa9391443854b2e47d081e60c11c7c5982c1f2b8fc0177dd0f507d360"
+    }
+  ],
+  "activeKeys": [],
+  "blockedKeys": [],
+  "waitingForWipKeys": [],
+  "waitingEvidence": "No Ready or active cards; no card waiting for occupied WIP observed",
+  "wipChange": {
+    "acknowledgedAtKyiv": "2026-10-14 18:50:02 +03:00",
+    "result": {
+      "updateProjectV2Field": {
+        "projectV2Field": {
+          "id": "PVTSSF_lAHOCUO-Ns4BmuYnzhlWOMc",
+          "name": "Status",
+          "options": [
+            {
+              "id": "f75ad846",
+              "name": "Backlog",
+              "color": "GRAY",
+              "description": "Є ключ, результат і критерії; залежності ще можуть потребувати уточнення."
+            },
+            {
+              "id": "e94785f3",
+              "name": "Ready",
+              "color": "BLUE",
+              "description": "Обсяг на 1–2 дні, критерії конкретні, залежності не заважають роботі."
+            },
+            {
+              "id": "47fc9ee4",
+              "name": "In progress (WIP <= 2)",
+              "color": "YELLOW",
+              "description": "Фактично розпочато; при 2 картках нову не беремо. Blocked займає слот."
+            },
+            {
+              "id": "47191256",
+              "name": "Review (WIP <= 2)",
+              "color": "ORANGE",
+              "description": "Результат існує; при 2 картках завершуємо перевірку, не накопичуємо нове."
+            },
+            {
+              "id": "98236657",
+              "name": "Done",
+              "color": "GREEN",
+              "description": "Критерії перевірені, доказ збережений, фактична дата Done записана."
+            }
+          ]
+        }
+      }
+    },
+    "acknowledgedAtUtc": "2026-10-14T15:50:02.8365210+00:00",
+    "requestStartedUtc": "2026-10-14T15:50:00.8824014+00:00"
+  },
+  "beforeCommit": "c051cd78ac14cb9f15c46b5c9410e0ad1960420f",
+  "fCardFieldsAndBodyHashesUnchanged": true,
+  "statusOptionIdsUnchanged": true,
+  "observationStatus": "STARTED — NOT COMPLETED",
+  "wipEffectObserved": false
+}
