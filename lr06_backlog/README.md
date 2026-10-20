@@ -8,7 +8,11 @@
 
 ## 1. Трекер
 
-Основне робоче представлення — [Project №2, Sprint 1 — PM work](https://github.com/users/Hyptofon/projects/2/views/3).
+Основне робоче представлення — [Project №2, Sprint 1 — PM Kanban](https://github.com/users/Hyptofon/projects/2/views/4).
+[PM-таблиця з деталями](https://github.com/users/Hyptofon/projects/2/views/3)
+збережена; обидва представлення показують ті самі S-02/S-11, не дублікати.
+Kanban створено 20.10.2026 з колонками за `PM stage` та фільтром Sprint 1;
+його налаштування не змінювало статусів або дат карток.
 [Продуктова черга](https://github.com/users/Hyptofon/projects/2/views/1) і
 [стан моделі продукту](https://github.com/users/Hyptofon/projects/2/views/2)
 доступні окремо. Project публічний і прив'язаний до навчального репозиторію.

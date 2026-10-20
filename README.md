@@ -14,7 +14,7 @@
 | Підгрупа | КН-41 |
 | Тема проєкту | Сервіс бронювання аудиторій і обладнання з погодженням заявок |
 | Варіант вхідних умов | V07 |
-| Трекер | [Project №2 — щоденна PM-робота Sprint 1](https://github.com/users/Hyptofon/projects/2/views/3) |
+| Трекер | [Project №2 — Sprint 1, PM Kanban](https://github.com/users/Hyptofon/projects/2/views/4) |
 | Дошка | [Kanban ЛР4 — робота над ЛР5–ЛР6](https://github.com/users/Hyptofon/projects/1/views/1) |
 | Продуктовий беклог | [Project №2 — модель продукту, S-історії V07](https://github.com/users/Hyptofon/projects/2/views/1) |
 | Валюта проєкту | |
@@ -22,13 +22,15 @@
 
 Трекер і дошка заповнюються на ЛР4; валюта проєкту та contingency від прямих витрат — на ЛР16.
 
-Щоденна точка входу — **Project №2, «Sprint 1 — PM work»**. Поле `PM stage`
-показує роботу над управлінськими результатами, а `Status` — окремий стан
+Щоденна точка входу — **Project №2, «Sprint 1 — PM Kanban»**. Колонки `PM stage`
+показують роботу над управлінськими результатами, а `Status` — окремий стан
 функціональних S-історій. Прийнятий PM-пакет не означає реалізовану функцію.
 Project №1 — окремий Kanban роботи над ЛР5–ЛР6 з власним WIP і датами;
 це не другий продуктовий беклог. Поточний порядок роботи —
 [sprints.md](lr03_sprint_simulation/sprints.md), правила входу —
 [DoR](lr06_backlog/dor.md). Історичні картки й дати не перестворюються.
+Наявна [PM-таблиця](https://github.com/users/Hyptofon/projects/2/views/3)
+залишається для перегляду деталей тих самих карток, без дублів.
 
 ## Проєкт
 
