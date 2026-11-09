@@ -6,3 +6,10 @@ ST-04,Представник студентської організації,А�
 ST-05,Відповідальний за видачу обладнання,Академія,high,high,blocker,manage_closely,PM
 ST-06,Викладач-заявник,Академія,high,low,supporter,keep_informed,BA
 ST-07,Служба ІТ-підтримки,Академія,low,high,neutral,keep_satisfied,Dev
+ST-08,PM — Войтюк Назарій,Команда V07,high,high,supporter,manage_closely,PM
+ST-09,BA — бізнес-аналітик,Команда V07,high,low,supporter,keep_informed,PM
+ST-10,Dev — розробник моделі команди,Команда V07,high,low,supporter,keep_informed,PM
+ST-11,QA — фахівець якості,Команда V07,high,low,supporter,keep_informed,PM
+ST-12,Керівник служби інформаційної безпеки академії,Академія,high,high,neutral,manage_closely,PM
+ST-13,Спонсор проєкту,Академія,high,high,neutral,manage_closely,PM
+ST-14,Керівник ІТ-відділу академії,Академія,high,high,neutral,manage_closely,PM

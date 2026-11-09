@@ -1,1 +1,15 @@
 item_id,stakeholder_id,message,channel,frequency,format,owner
+C-01,ST-01,Підсумок спринта; прийнятий обсяг; SC і відкриті gates,demo,biweekly,presentation,PM
+C-02,ST-02,Статус розкладу та карантину; рішення для SC-01/SC-04,meeting,weekly,written,BA
+C-03,ST-03,Зміна порядку видачі ключів або непідтверджений доступ перед T-18,call,on_event,verbal,PM
+C-04,ST-05,Узгодження єдиної видачі пари; відмова ресурсу перед T-18,meeting,weekly,written,PM
+C-05,ST-07,Відсутній контракт або тестові входи перед T-09: R-01,call,on_event,verbal,Dev
+C-06,ST-08,Поточний пакет; відхилення від WIP; рішення; без повторів за відсутності роботи,chat,daily,written,BA
+C-07,ST-12,На go/no-go бракує доказу вимоги листа безпеки: R-08; запуск зупинено,call,on_event,verbal,PM
+C-08,ST-13,Погана новина: CPM понад 50 днів або прогноз поза горизонтом; R-04/R-06; варіанти рішення,call,on_event,verbal,PM
+C-09,ST-14,R-01: перед T-09 немає контракту SSO; потрібен власник доступу і строк відповіді,call,on_event,verbal,PM
+C-10,ST-13,Статус релізу; scope; календар; бюджет; три метрики; потрібне рішення,report,weekly,written,PM
+C-11,ST-09,Готові входи; нові AC; невизначені записи R-02,meeting,weekly,written,PM
+C-12,ST-10,Залежності моделі; інваріант пари R-05; затверджений scope,meeting,weekly,written,BA
+C-13,ST-11,DoD; контрольні випадки; дефекти; протокол приймання,meeting,weekly,written,PM
+C-14,ST-01,R-02/R-05: приклад допускає невизначений або чужий резерв; призупинити приймання правила,call,on_event,verbal,PM
