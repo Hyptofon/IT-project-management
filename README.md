@@ -15,10 +15,10 @@
 | Трекер | [Робоча PM-дошка — Sprint 2](https://github.com/users/Hyptofon/projects/2/views/4) |
 | Дошка | [Kanban ЛР4 — робота над ЛР5–ЛР6](https://github.com/users/Hyptofon/projects/1/views/1) |
 | Продуктовий беклог | [Project №2 — модель продукту, S-історії V07](https://github.com/users/Hyptofon/projects/2/views/1) |
-| Валюта проєкту | |
-| Contingency, % | |
+| Валюта проєкту | грн (UAH) |
+| Contingency, % | 8% прямих витрат |
 
-Валюта проєкту та contingency від прямих витрат заповнюватимуться на ЛР16.
+База та два резерви — [ЛР16](lr16_budget/README.md#2-кошторис-і-два-резерви).
 
 Починати щоденну роботу з **Project №2 → «Sprint 2 — PM work»**.
 Це одна робоча дошка: підготовка → робота → перевірка → прийнятий PM-результат.
