@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,10,21,8888,4232.38,-52.38,home_works/LR09 Прогноз velocity і Monte Carlo/lr09_reference_velocity.csv,Навчальні points_done першого/другого рядка: fallback ЛР16 через власний нуль Sprint 1; масштаб даних не збігається з V07; це не власна продуктивність
+2,10,17,8888,5228.24,-41.18,home_works/LR09 Прогноз velocity і Monte Carlo/lr09_reference_velocity.csv,Навчальні points_done першого/другого рядка: fallback ЛР16 через власний нуль Sprint 1; масштаб даних не збігається з V07; це не власна продуктивність

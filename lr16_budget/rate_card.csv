@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,100,660,https://dou.ua/lenta/articles/salary-report-managers-summer-2025/,Орієнтир PM від 3 років у Львові; відповідальність за інтегровані рішення
+BA,0.5,200,550,https://dou.ua/lenta/articles/salary-report-data-summer-2025/,Медіана Business Analyst; інший склад вибірки ніж Dev
+Dev,1,400,550,https://dou.ua/lenta/articles/salary-report-devs-summer-2025/,Middle у Києві/Львові; ставка дорівнює BA за обраними орієнтирами
+QA,0.25,100,484,https://dou.ua/lenta/articles/salary-report-qa-summer-2025/,Загальна медіана QA; не чиста ставка тестування конкретного рівня
