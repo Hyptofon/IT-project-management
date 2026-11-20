@@ -38,8 +38,15 @@ Sprint 2 завершив документальні моделі S-04/S-05 на
 | MT-02, ризики score≥15 | 6 | 6 | >2 | Gates не закриті самим прийманням документів |
 | MT-03, lead P85 | 2 дні | 2 дні | >7 днів | Потік документів не за межею |
 
-ЛР14 і звіт підготовлені 10.11 на одній вибірці; нових завершень/переоцінок
-між ними не було. Джерела — dashboard.csv, forecast.csv, risks.csv, flow.csv.
+**Прогноз релізу.** P85 — 21.06.2027, цільова дата REL-1 у roadmap —
+24.02.2027. Відхилення становить **117 календарних днів**.
+
+Обидві колонки відтворюють [зріз дашборда від 10.11](https://github.com/Hyptofon/IT-project-management/blob/e85598c5c1628934bef7788f40801a80dc83bd42/lr14_metrics/dashboard.csv).
+Між ЛР14 і звітом 10.11 нових завершень чи переоцінок не було.
+MT-03 тоді становила 2 дні за [вибіркою з 18 робіт](https://github.com/Hyptofon/IT-project-management/blob/e85598c5c1628934bef7788f40801a80dc83bd42/lr14_metrics/flow.csv).
+Зріз ЛР14 від 14.11 містить 21 роботу і дає LT P85 = 1 день.
+Дати прогнозу й цілі взяті з [forecast.csv](../lr09_forecast/forecast.csv)
+та [roadmap.csv](../lr07_wbs/roadmap.csv), оцінки ризиків — з [risks.csv](../lr11_risks_quality/risks.csv).
 
 ## 4. Чого я прошу
 
